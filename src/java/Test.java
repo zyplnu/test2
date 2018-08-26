@@ -4,6 +4,7 @@ public class Test {
         System.out.println("hello");
         System.out.println("I am zyp");
         System.out.println("zhangyongpu love zhangqin");
+        System.out.println("xixi");
     }
 
 }
