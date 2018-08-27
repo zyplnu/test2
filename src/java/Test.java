@@ -6,6 +6,8 @@ public class Test {
         System.out.println("zhangyongpu love zhangqin");
         System.out.println("xixi");
         System.out.println("haha");
+        System.out.println("hegnheng");
+        System.out.println("enene");
     }
 
 }
