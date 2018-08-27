@@ -22,7 +22,11 @@
         <entry file="file://$PROJECT_DIR$/src/java/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
+<<<<<<< HEAD
               <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+=======
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+>>>>>>> 24f5f3cb79fd7e4aba6fcb75ed852f7ee5593f9c
             </state>
           </provider>
         </entry>
@@ -211,7 +215,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3174000" />
+=======
+    <option name="totallyTimeSpent" value="2833000" />
+>>>>>>> 24f5f3cb79fd7e4aba6fcb75ed852f7ee5593f9c
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -318,7 +326,11 @@
     <entry file="file://$PROJECT_DIR$/src/java/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
+<<<<<<< HEAD
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+=======
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+>>>>>>> 24f5f3cb79fd7e4aba6fcb75ed852f7ee5593f9c
         </state>
       </provider>
     </entry>
