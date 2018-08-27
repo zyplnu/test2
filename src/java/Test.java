@@ -7,10 +7,8 @@ public class Test {
         System.out.println("xixi");
         System.out.println("haha");
         System.out.println("hegnheng");
-<<<<<<< HEAD
-        System.out.println("enene");
-=======
->>>>>>> 24f5f3cb79fd7e4aba6fcb75ed852f7ee5593f9c
+        System.out.println("fshjfasjfj");
     }
+
 
 }
